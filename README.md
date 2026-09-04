@@ -1,7 +1,7 @@
 # Guía de Bioquímica Metabólica
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22299277)](https://doi.org/10.5281/zenodo.22299277) -->
 
 Guía integral de Bioquímica Metabólica (7 temas) para la educación superior en ciencias experimentales y de la salud. Incluye resúmenes, figuras originales editables y autoevaluación basada en la Taxonomía de Bloom. Material abierto diseñado para reducir la carga cognitiva y fomentar el aprendizaje activo y la inclusión. 
 
