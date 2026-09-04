@@ -22,8 +22,8 @@ El material se organiza en **7 bloques temáticos** que cubren el núcleo de la 
 * **Tema 7:** Integración del Metabolismo.
 
 ### Cada carpeta temática incluye:
-1. **Resúmenes:** Formatos general y extendido (.odt).
-2. **Evaluación:** Cuestionarios tipo test y preguntas de respuesta corta (.odt).
+1. **Resúmenes:** Formatos general y extendido (.docx).
+2. **Evaluación:** Cuestionarios tipo test y preguntas de respuesta corta (.docx).
 3. **Retroalimentación:** Tablas de respuestas justificadas según niveles de Bloom.
 4. **Recursos Gráficos:** Figuras esquemáticas originales en alta resolución (.tiff) y archivos editables (.pptx).
 
