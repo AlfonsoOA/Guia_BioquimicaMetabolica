@@ -21,10 +21,11 @@ El material se organiza en **7 bloques temáticos** que cubren el núcleo de la 
 * **Tema 6:** Cadena de transporte electrónico, Fosforilación Oxidativa y Fotofosforilación.
 * **Tema 7:** Integración del Metabolismo.
 
-### Cada carpeta temática incluye:
+### Cada carpeta temática incluye un archivo (.docx) con:
 1. **Resúmenes:** Formatos general y extendido (.docx).
 2. **Evaluación:** Cuestionarios tipo test y preguntas de respuesta corta (.docx).
-3. **Retroalimentación:** Tablas de respuestas justificadas según niveles de Bloom.
+3. **Retroalimentación:** Tablas de respuestas justificadas según niveles de Bloom (.docx).
+Además, se incluyen:
 4. **Recursos Gráficos:** Figuras esquemáticas originales en alta resolución (.tiff) y archivos editables (.pptx).
 
 
