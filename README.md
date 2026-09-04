@@ -74,9 +74,20 @@ Gracias a los archivos `.md` disponibles en cada tema, puedes proponer cambios s
 
 Si utilizas estos materiales en tu docencia o investigación, por favor utiliza la siguiente cita:
 
-> **Olaya-Abril, A., & Sáez, L. P. (2026).** *Guía de Bioquímica Metabólica*. UCOPress / Repositorio GitHub. DOI: [Pendiente de vinculación con Zenodo]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22299277.svg)](https://doi.org/10.5281/zenodo.22299277)
 
----
+> **Olaya-Abril, A., & Sáez, L. P. (2026).** *Guía de Bioquímica Metabólica*. UCOPress / Zenodo. https://doi.org/10.5281/zenodo.22299277
+
+### Formato BibTeX
+```bibtex
+@misc{olaya_saez_2026_guia_bioquimica,
+  author       = {Olaya-Abril, Alfonso and S{\'a}ez, Lara P.},
+  title        = {Gu{\'i}a de Bioqu{\'i}mica Metab{\'o}lica},
+  year         = {2026},
+  publisher    = {UCOPress / Zenodo},
+  doi          = {10.5281/zenodo.22299277},
+  url          = {[https://doi.org/10.5281/zenodo.22299277](https://doi.org/10.5281/zenodo.22299277)}
+}
 
 ## ⚖️ Licencia
 
